@@ -1,6 +1,7 @@
 #formula comparer code
 
-#you will need to install numpy library to run this code
+#you will need to install Numpy library to run this code
+#also, if this code doesn't work on the in-built GitHub compiler try Thonny, installing both Git and Numpy beforehand
 import numpy as np
 import timeit
 
